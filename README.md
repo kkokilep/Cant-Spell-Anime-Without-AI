@@ -68,6 +68,7 @@ Resources:
 * [Open Mantra Dataset](https://github.com/mantra-inc/open-mantra-dataset)
 * [Manga109 API](https://github.com/manga109/manga109api)
 * [Manga Image Translator](https://github.com/zyddnys/manga-image-translator)
+* [Manga Translation Paper](https://deepai.org/publication/towards-fully-automated-manga-translation)
 
 ## Manga Auto-Captioning
 
