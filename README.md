@@ -35,6 +35,8 @@ Resources:
 * [Waifu Labs](https://waifulabs.com)
 * [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net)
 * [Pretrained Anime StyleGAN2](https://medium.com/pickupp/pretrained-anime-stylegan2-convert-to-pytorch-and-editing-images-by-encoder-289a57ac3cab)
+* [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+  * [Relevant Page on Textual Inverion](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Textual-Inversion)
 
 ## Style Transfer
 
